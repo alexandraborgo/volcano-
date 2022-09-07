@@ -1,0 +1,55 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="rd=z3$Kok4Ef(Zj}ffJv" x="20" y="20"><statement name="HANDLER"><block type="controls_repeat_ext" id="pUvuR:5VVrl#Q(RGZR@)"><comment pinned="true" h="80" w="160">Magma rising through a vent </comment><value name="TIMES"><shadow type="math_whole_number" id="JRP(i7GeJbu:)9Zm^M0n"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="/hyKKMiP4}-r4$k+~c+b"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_pause" id="-`P1oENE5ix2$l,`@1e}"><value name="pause"><shadow type="timePicker" id="4=*AO4M50aRNNY`dQdxH"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="~P%1n=%OZb`jB;95?ToL"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="5*6_ELkx0CT8=sR|mOSc"><value name="pause"><shadow type="timePicker" id="z:a7Hri6#[$wg-8}.imz"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="wfYSWprE8C0@Gftaz@(~"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="8_dywm9}iuvuofta`J.z"><value name="pause"><shadow type="timePicker" id="sKEW#mdvIzeNj1^ROTaf"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="^Y-!KphW@mn1yflviu3#"><field name="LEDS">`
+        # . . . # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="`d`InjBK0tae6,y}5i,U"><value name="pause"><shadow type="timePicker" id="*@hpg}rw=:5xV@zU[lbf"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="7^K;:`/:]._0EAm!pnsF"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="kam]5BmoBC4vS=#w[je{"><value name="pause"><shadow type="timePicker" id="rA8{G8VTMp~]EpxI1JQ|"><field name="ms">250</field></shadow></value><next><block type="controls_repeat_ext" id="Nsh,Ll%t~ID1@O.2}AU("><comment pinned="true" h="80" w="160">Lava erupting</comment><value name="TIMES"><shadow type="math_whole_number" id="$6wsF=[ZE|cvk60,IKlF"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="mSz@P?Xk^uz3Ne8Z6/-t"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="S@u=i?7G$`fg|?9fW00N"><value name="pause"><shadow type="timePicker" id="|bEu;KH3YRZ(LyBL_z%/"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="_{nGBgSbc..*-nBbRWD5"><field name="LEDS">`
+        # . # . # 
+        . . # . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="KaDBuibYp^q:ds)N`~lr"><value name="pause"><shadow type="timePicker" id="pKNk/LzSdNm|H742ht!e"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="z)x,WkYZ-A3D5Z8Yvy6c"><field name="LEDS">`
+        . # # # . 
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="4CvcaJu$tp;Mrng~rmpA"><value name="pause"><shadow type="timePicker" id="dHw6RsixOD]/NM@j#/fo"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="%IgYaK`aR2m`!474!CW|"><field name="LEDS">`
+        # # # # # 
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
